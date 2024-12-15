@@ -4,7 +4,7 @@ All the figures in this document is redrawn using Mathcha or Inkscape.
 
 ## 2.1
 **Use the principle of virtual work to establish the formula for an unequal- arm balance, as shown in Fig. 2-1, $W_{1}l_{1}=W_{2}l_{2}$ . (Neglect the weight of the cross-beam.)**
-![Figure](templates/Fig.2-1.svg)
+![Figure](/templates/Fig.2-1.svg)
 Ans:
 Let's say, $W_{1}$ moves down $d$ unit, then $W_{2}$ will be lifted up $\frac{d}{l_{1}}l_{2}$. By the conservation of energy, $W_{1}d=W_{2}d \frac{l_{2}}{l_{1}}$, that is, $W_{1}l_{1}=W_{2}l_{2}$.
 
