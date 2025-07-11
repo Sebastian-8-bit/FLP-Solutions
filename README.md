@@ -1,2 +1,2 @@
 # FLP-Solutions
-My solution on the Feynman's Lecture on Physics.
+My solution to the Feynman's Lecture on Physics.
